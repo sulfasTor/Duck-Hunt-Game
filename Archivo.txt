@@ -1,0 +1,11 @@
+";score=01010101;,dd,a@c.com,0
+"+System.out.println("hey")+",owned,m@a.com,0
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>PPSP,psps,m@m.com,0
+<br><br><br><br><br>OWNED<br><br><br><br>,mamam,b@aa.com,0
+/n/n/n/n/n/n/n/n/n/n/nOWNED,kdkd,dd@k.com,0
+b\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n,fbfb,ho@aac.ocm,650
+Guest,0,guest@duckhunt.com,0
+Marc,12345,marc@gmail.com,0
+MosiesTwerg,3P1cG4m1ng,twerg@duckhunt.com,0
+DaDal,eRtiuz09,dadal@duckhunt.com,50
+ChrisR,motdepasse0,chris@duckhunt.com,0
