@@ -1,4 +1,13 @@
-Le main peut s'executer dans la classe Index apres avoir ete compile.
+**************************************************************************
+*       __           ___                                    _____        *
+*      |  \  |    | |   |   |   /    |     | |     | |\   |   |          *
+*      |   | |    | |       |  /     |_____| |     | | \  |   |          *
+*      |   | |    | |       |  \     |     | |     | |  \ |   |          *
+*      |__/  |____| |___|   |   \    |     | |_____| |   \|   |          *
+*                                                                        *
+**************************************************************************
+By sulfasTor.
+
 
 le fichier Archivo.txt contient les donnees des joueurs et les scores.
 
