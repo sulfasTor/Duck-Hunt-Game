@@ -156,15 +156,16 @@ public class SurfaceJeu extends JPanel{
 		dbg = dbImage.getGraphics();
 		paintComponent(dbg);
 		g.drawImage(dbImage,0,0,this);
+	}
+	
+	protected void paintComponent(Graphics g){
+		super.paintComponent(g);
+		
 		g.drawImage(scene, 0, 0, getWidth(), getHeight(), null);
 		for(int a = 0; a<listeCibles.size(); a++){
 			listeCibles.get(a).dessiner(g);
 		}
 		cp.dessinerArme(g);
-	}
-	
-	protected void paintComponent(Graphics g){
-		super.paintComponent(g);
 		repaint();
 	}	
 	  

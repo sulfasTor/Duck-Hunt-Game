@@ -30,7 +30,7 @@ public class CursorPanel{
 	public void setX(int a){x = a;}
     public void setY(int b){y = b;}
     public Point getPunto(){
-		return punto;
+	return punto;
 	}
 	public String getGunName(){
 		String nom="";
@@ -50,7 +50,7 @@ public class CursorPanel{
 	}
 	public int getShootRadio(){
 	    if(gunNum!=2 & gunNum!=4) return 5;
-	    if(gunNum==4) return 10;
+	    else if(gunNum==4) return 10;
 	    else return 20;
 	}
 	//Methode qui dit si une arme peut tirer en mode automatique
